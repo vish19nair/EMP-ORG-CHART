@@ -1,0 +1,21 @@
+INSERT INTO Designation VALUES (1,'Director',1);
+INSERT INTO Designation VALUES (2,'Manager',10);
+INSERT INTO Designation VALUES (3,'Lead',20);
+INSERT INTO Designation VALUES (4,'Developer',30);
+INSERT INTO Designation VALUES (5,'DevOps',30);
+INSERT INTO Designation VALUES (6,'QA',30);
+INSERT INTO Designation VALUES (7,'Intern',40);
+
+
+/*
+INSERT INTO Employee  VALUES (1,'THOR',NULL ,1 );
+INSERT INTO Employee VALUES (2,'IRONMAN',1,2);
+INSERT INTO Employee  VALUES (3,'HULK',1,3 );
+INSERT INTO Employee VALUES (4,'CAPTAINAMERICA',1,2);
+INSERT INTO Employee  VALUES (5,'WARMACHINE',2,6);
+INSERT INTO Employee  VALUES (6,'VISION',2,5);
+INSERT INTO Employee  VALUES (7,'BLACKWIDOW',3,4);
+INSERT INTO Employee  VALUES (8,'FALCON',4,5);
+INSERT INTO Employee  VALUES (9,'ANTMAN',4,3);
+INSERT INTO Employee VALUES (10,'SPIDERMAN',2,7);
+*/
